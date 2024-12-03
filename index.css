@@ -1,0 +1,152 @@
+body{
+    margin-left: 50px;
+}
+#diva{
+    width: 900px;
+    margin: auto;
+}
+#herti{
+    font-size: 72px;
+    text-align: center;
+}
+#perti{
+    font-size: 24px;
+    color: #FF8000;
+    text-align: center;
+}
+#diverti{
+    width: 696px;
+    margin-bottom: 20px;
+}
+#hori{
+    text-align: left;
+    font-size: 40px;
+    color: #D9AE00;
+}
+#pori{
+    font-size: 24px;
+    color: #6D81B4;
+    text-align: left;
+}
+#potoerti{
+    width: 696px;
+    height: 415px;
+}
+#divsami{
+    width: 1007px;
+    background-color:#FFCEBE;
+    border: 2px solid #000;
+    border-right: 2px solid red;
+    border-bottom: 2px solid red;
+    margin-bottom: 60px;
+}
+#divori{
+    width: 681px;
+}
+#hsami{
+    font-size: 40px;
+    text-align: center;
+    color: #F44E50;
+}
+#psami{
+    font-size: 20px;
+    text-align: center;
+    color: #8B2B2C;
+}
+#potoori{
+width: 600px;
+}
+#divpoto{
+    margin-left: 203px;
+    margin-bottom: 30px;
+
+}
+#divxuti{
+    width: 696px;
+
+}
+#hotxi{
+    text-align: right;
+    color: #4716E4;
+}
+#potxi{
+    font-size: 24px;
+    text-align: right;
+    border: 3px solid #FF5DA3;
+    background-color: #FFC1E3;
+}
+#patherti{
+    font-size: 24px;
+    color: #414651;
+}
+#divotxi{
+    width: 580px;
+    margin: auto;
+}
+
+#paragraphs {
+    vertical-align: middle;
+    display: inline-block;
+    width: 500px;
+    color: #C27512;
+}
+
+#paragraphsDiv {
+    vertical-align: middle;
+    display: inline-block;
+    margin: 0 12px;
+}
+
+#imageButton {
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#imageId {
+    vertical-align: middle;
+}
+#paragraphss {
+    vertical-align: middle;
+    display: inline-block;
+    width: 500px;
+    color: #C27512;
+}
+
+#paragraphsDivv {
+    vertical-align: middle;
+    display: inline-block;
+    margin: 0 12px;
+}
+
+#imageButtonn {
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#imageIdd {
+    vertical-align: middle;
+}
+#paragraphsss {
+    vertical-align: middle;
+    display: inline-block;
+    width: 500px;
+    color: #C27512;
+}
+
+#paragraphsDivvv {
+    vertical-align: middle;
+    display: inline-block;
+    margin: 0 12px;
+}
+
+#imageButtonnn {
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#imageIddd {
+    vertical-align: middle;
+}
+#potoebi{
+    width: 696px;
+}
